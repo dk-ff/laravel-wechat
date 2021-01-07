@@ -1,3 +1,12 @@
+####modify by DK
+
+####添加原来easywechat里面 开放平台的一些没有的接口
+
+####比如开放平台  配送接口等
+
+
+
+
 # laravel-wechat
 
 微信 SDK for Laravel / Lumen， 基于 [overtrue/wechat](https://github.com/overtrue/wechat)
